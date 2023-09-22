@@ -10,7 +10,7 @@ NOTE: All detetcted human reads in raw sample sequences have been removed prior 
 
 # Bioinformatic analysis: Software versions and  parameters
 The workflow used for analyzing these samples:
-![image info](img/metagen_workflow.png)
+![image info](metagen_workflow.png)
 
 ## Quality control
 
